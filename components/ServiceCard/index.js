@@ -18,7 +18,7 @@ const ServiceCard = ({ name, description }) => {
       <p className="mt-5 opacity-40 text-xl">
         {description
           ? description
-          : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "}
+          : "I am Caleb Hiemstra, a recent Computer Systems Technician graduate from Conestoga College, with hands-on experience in IT support, troubleshooting, and network design. During my co-op positions at VLInteractive, I responded to IT tickets, set up and troubleshot computers, installed software, maintained hardware, and contributed to long-term IT projects. I have strong skills in C and Python development, Windows administration tools, and the Microsoft 365 Suite. I excel at solving IT problems, engaging with clients, and have a passion for all things computers, including building my first computer in 2017 and an interest in cybersecurity."}
       </p>
     </div>
   );
