@@ -20,7 +20,44 @@
       "link": "mailto:chiemstra3609@conestogac.on.ca"
     }
   ],
-  "projects": [],
+  "projects": [
+  {
+      "id": "1",
+      "title": "IT Help Desk Support",
+      "description": "Supported a company of 200 employees and external clients.",
+      "imageSrc": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftechnofaq.org%2Fwp-content%2Fuploads%2F2019%2F08%2FIT-help-desk.jpg&f=1&nofb=1&ipt=616f55e4a6458a99cbe7f94e429b069a9b4b7f573f1c3cf968dffa02ed52814d&ipo=images",
+    },
+    {
+      "id": "2",
+      "title": "IT Troubleshooting",
+      "description": "Solved many common IT problems requiring troubleshooting.",
+      "imageSrc": "https://via.placeholder.com/400",
+    },
+    {
+      "id": "3",
+      "title": "Client Engagement",
+      "description": "Engaged with clients while meeting their IT needs.",
+      "imageSrc": "https://via.placeholder.com/400",
+    },
+    {
+      "id": "4",
+      "title": "Network Design and Infrastructure",
+      "description": "Experienced in network design and infrastructure.",
+      "imageSrc": "https://via.placeholder.com/400",
+    },
+    {
+      "id": "5",
+      "title": "Passion for Computers",
+      "description": "Personal interest and experience in all things computers.",
+      "imageSrc": "https://via.placeholder.com/400",
+    },
+    {
+      "id": "6",
+      "title": "Microsoft 365 Expertise",
+      "description": "Knowledgeable in all parts of the Microsoft 365 Suite.",
+      "imageSrc": "https://via.placeholder.com/400",
+    }
+  ],
   "services": [
     {
       "id": "1",
