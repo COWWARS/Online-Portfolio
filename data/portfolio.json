@@ -21,69 +21,32 @@
     }
   ],
   "projects": [],
-  "services": [],
+  "services": [
+    {
+      "id": "1",
+      "title": "IT Helpdesk at VLInteractive",
+      "description": "January 2024 - April 2024\n- Responded to customer and employee IT tickets.\n- Setup and troubleshot customer and employee computers.\n- Installed software and maintained hardware.\n- Helped with IT team's long-term projects.\n- Gained knowledge of Windows administration tools.\n- Communicated effectively with co-workers and customers."
+    },
+    {
+      "id": "2",
+      "title": "IT Helpdesk at VLInteractive",
+      "description": "May 2022 - August 2022\n- Responded to customer and employee IT tickets.\n- Setup and troubleshot customer and employee computers.\n- Installed software and maintained hardware.\n- Helped with IT team's long-term projects.\n- Gained knowledge of Windows administration tools.\n- Communicated effectively with co-workers and customers."
+    },
+    {
+      "id": "3",
+      "title": "Furniture Assembly at Hauser Industries Inc",
+      "description": "May 2021 - August 2021\n- Assembled high-end patio furniture meeting precise standards.\n- Used a wide variety of tools to complete furniture assembly.\n- Worked to tight deadlines.\n- Collaborated with team members to complete large projects.\n- Utilized barcode scanners to organize workflow."
+    },
+    {
+      "id": "4",
+      "title": "Kitchen Assistant at Fork and Cork Grill",
+      "description": "Nov 2017 - Sept 2019\n- Worked in a fast-paced kitchen environment.\n- Washed dishes and prepped food.\n- Supported other restaurant staff in daily operations."
+    }
+  ],
   "aboutpara": "I am Caleb Hiemstra, a recent Computer Systems Technician graduate from Conestoga College, with hands-on experience in IT support, troubleshooting, and network design. During my co-op positions at VLInteractive, I responded to IT tickets, set up and troubleshot computers, installed software, maintained hardware, and contributed to long-term IT projects. I have strong skills in C and Python development, Windows administration tools, and the Microsoft 365 Suite. I excel at solving IT problems, engaging with clients, and have a passion for all things computers, including building my first computer in 2017 and an interest in cybersecurity.",
   "resume": {
     "tagline": "👋 I'm a Computer Systems Technician.",
     "description": "Experienced in IT support, troubleshooting, network design, and development with C and Python. Passionate about all things computers.",
-    "experiences": [
-      {
-        "id": "1",
-        "dates": "January 2024 - April 2024",
-        "type": "Co-op",
-        "position": "IT Helpdesk",
-        "company": "VLInteractive, Guelph, ON",
-        "bullets": [
-          "Responded to customer and employee IT tickets.",
-          "Setup and troubleshot customer and employee computers.",
-          "Installed software and maintained hardware.",
-          "Helped with IT team's long-term projects.",
-          "Gained knowledge of Windows administration tools.",
-          "Communicated effectively with co-workers and customers."
-        ]
-      },
-      {
-        "id": "2",
-        "dates": "May 2022 - August 2022",
-        "type": "Co-op",
-        "position": "IT Helpdesk",
-        "company": "VLInteractive, Guelph, ON",
-        "bullets": [
-          "Responded to customer and employee IT tickets.",
-          "Setup and troubleshot customer and employee computers.",
-          "Installed software and maintained hardware.",
-          "Helped with IT team's long-term projects.",
-          "Gained knowledge of Windows administration tools.",
-          "Communicated effectively with co-workers and customers."
-        ]
-      },
-      {
-        "id": "3",
-        "dates": "May 2021 - August 2021",
-        "type": "Full Time",
-        "position": "Furniture Assembly",
-        "company": "Hauser Industries Inc, Waterloo, ON",
-        "bullets": [
-          "Assembled high-end patio furniture meeting precise standards.",
-          "Used a wide variety of tools to complete furniture assembly.",
-          "Worked to tight deadlines.",
-          "Collaborated with team members to complete large projects.",
-          "Utilized barcode scanners to organize workflow."
-        ]
-      },
-      {
-        "id": "4",
-        "dates": "Nov 2017 - Sept 2019",
-        "type": "Part Time",
-        "position": "Kitchen Assistant",
-        "company": "Fork and Cork Grill, Kitchener, ON",
-        "bullets": [
-          "Worked in a fast-paced kitchen environment.",
-          "Washed dishes and prepped food.",
-          "Supported other restaurant staff in daily operations."
-        ]
-      }
-    ],
     "education": {
       "universityName": "Conestoga College, Waterloo, Ontario",
       "universityDate": "January 2023 – Present",
